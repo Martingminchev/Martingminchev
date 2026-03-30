@@ -1,6 +1,6 @@
 ## Martin Minchev
 
-Full-stack developer based in Barcelona. I build things across web, mobile, desktop, and AI — from production apps for real clients to experimental memory architectures for language models.
+Full-stack developer based in Barcelona. I build things across web, mobile, desktop, and AI — from production apps for clients to experimental memory architectures for language models.
 
 ### Research
 
