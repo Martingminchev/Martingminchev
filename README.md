@@ -4,7 +4,7 @@ Full-stack developer based in Barcelona. I build things across web, mobile, desk
 
 ### Research
 
-**[Horn Attention](https://github.com/Martingminchev/ai-experiments)** — Discovered that adding 24 learnable parameters (power-law distance decay) to transformer attention enables models to perform **28% better at 4x their training context** and **85% better at 16x**. Froze GPT-2's embeddings and proved geometry is infrastructure, not knowledge — achieving lower perplexity with 32% fewer trainable parameters. 15 ablation studies, from 30M to 125M scale.
+**[Horn Attention](https://github.com/Martingminchev/ai-experiments)** — Discovered that adding 24 learnable parameters (power-law distance decay) to transformer attention enables models to perform **28% better at 4x their training context** and **85% better at 16x** compared to RoPE. Froze GPT-2's embeddings and proved geometry is infrastructure, not knowledge — achieving lower perplexity with 32% fewer trainable parameters. 15 ablation studies, from 30M to 125M scale. While proven at small scale- scaling this can cost significant amount of compute to train, so on standby for now, due to budget constrains.
 
 **[HornRAG](https://github.com/Martingminchev/hornrag)** — Geometry-first AI memory architecture based on Gabriel's Horn topology. Replaces neural weights with physics and geometry. 10-step streaming pipeline, dual vector search, autonomous background cognition. Grounded in 96+ papers.
 
