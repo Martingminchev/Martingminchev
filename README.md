@@ -45,4 +45,4 @@ Full-stack developer based in Barcelona. I build things across web, mobile, desk
 **Desktop:** Electron
 **AI/ML:** PyTorch, transformers, LLM integration (Gemini, OpenAI, Moonshot, Ollama), vector search, RAG
 **Python:** FastAPI, Backtrader, Pandas, MetaTrader5
-**Other:** Unity/C#, Three.js, Stripe, JWT, MongoDB Atlas
+**Other:**  Three.js, Stripe, JWT, MongoDB Atlas
