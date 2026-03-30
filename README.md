@@ -8,6 +8,8 @@ Full-stack developer based in Barcelona. I build things across web, mobile, desk
 
 **[HornRAG](https://github.com/Martingminchev/hornrag)** — Geometry-first AI memory architecture based on Gabriel's Horn topology. Replaces neural weights with physics and geometry. 10-step streaming pipeline, dual vector search, autonomous background cognition. Grounded in 96+ papers.
 
+**[Geometric Voice](https://github.com/Martingminchev/geometric-voice)** — Question answering without LLMs. Retrieves Wikipedia content via Brave Search and composes answers using pure vector geometry — template matching, role filling, horn compression. No language model in the loop.
+
 **[Imagine](https://github.com/Martingminchev/imagine-ai)** | **[Horn AI](https://github.com/Martingminchev/horn-ai)** — Two implementations of persistent AI with memory reconsolidation, autonomous thought, personality evolution, and expectation modeling.
 
 ### Apps & Tools
