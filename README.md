@@ -34,9 +34,7 @@ Full-stack developer based in Barcelona. I build things across web, mobile, desk
 
 **[AI Orchestrator](https://github.com/Martingminchev/ai-orchestrator)** — Multi-agent task orchestration with parallel execution.
 
-**[Learning Demos](https://github.com/Martingminchev/learning-demos)** — 11 projects from my learning journey: JWT auth, Stripe payments, React Native, MERN stack.
-
-**[The River](https://github.com/Martingminchev/the-river)** — A novella. Not code — but building things isn't limited to software.
+**[The River](https://github.com/Martingminchev/the-river)** — A novella. Not code — but building things isn't limited to software .
 
 ### Tech
 
