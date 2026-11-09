@@ -2,8 +2,12 @@
 
 Full-stack developer and AI instructor at Barcelona Code School.
 
-I teach JavaScript, React, Node.js, and how to build AI automations and agents
-with n8n and LLM APIs. I also build automations for small businesses.
+I teach HTML, CSS, JavaScript, React, Node.js, Express and how to build AI automations and agents
+with code or without code using n8n and API's.
+During my classes I emphesize on data structures, API design, architecture and breaking problems into
+small pieces and explaining complex topics clearly.
+
+I also build automations for small businesses.
 
 ## Working on now
 
