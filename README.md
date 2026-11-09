@@ -1,48 +1,19 @@
-## Martin Minchev
+# Martin Minchev
 
-Full-stack developer based in Barcelona. I build things across web, mobile, desktop, and AI — from production apps for clients to experimental memory architectures for language models.
+Full-stack developer and AI instructor at Barcelona Code School.
 
-### Research
+I teach JavaScript, React, Node.js, and how to build AI automations and agents
+with n8n and LLM APIs. I also build automations for small businesses.
 
-**[Geometric Voice](https://github.com/Martingminchev/geometric-voice)** — Question answering without LLMs. Retrieves Wikipedia content via Brave Search and composes answers using pure vector geometry — template matching, role filling, horn compression. No language model in the loop.
+## Working on now
 
-**[Horn Attention](https://github.com/Martingminchev/ai-experiments)** — Discovered that adding 24 learnable parameters (power-law distance decay) to transformer attention enables models to perform 28% better at 4x their training context and 85% better at 16x compared to RoPE. In a separate experiment, froze GPT-2's embeddings and proved geometry is infrastructure, not knowledge — achieving lower perplexity with 32% fewer trainable parameters. 15 ablation studies, 30M to 125M scale.
+- Nand2Tetris: building a computer from logic gates up to a working OS
+- Learning Python
 
-**[HornRAG](https://github.com/Martingminchev/hornrag)** — Geometry-first AI memory architecture based on Gabriel's Horn topology. Replaces neural weights with physics and geometry. 10-step streaming pipeline, dual vector search, autonomous background cognition. Grounded in 96+ papers.
+## Open source
 
-**[Imagine](https://github.com/Martingminchev/imagine-ai)** | **[Horn AI](https://github.com/Martingminchev/horn-ai)** — Two implementations of persistent AI with memory reconsolidation, autonomous thought, personality evolution, and expectation modeling.
+- Wrote governance hook labs for Goose agents (allow / deny / log, evidence logging)
+  in [finos-labs/CreditGoose-Finos](https://github.com/finos-labs/CreditGoose-Finos),
+  used in a lecture I gave on agent governance
 
-### Apps & Tools
-
-**[Trading Platform](https://github.com/Martingminchev/trading-platform)** — Desktop trading app (Electron + React + Python MT5 bridge). Multi-chart analysis, custom indicators (SMT Divergence, Time Cycles), live trade execution, historical replay.
-
-**[TradingLab](https://github.com/Martingminchev/tradinglab)** — AI-powered strategy backtesting. Generate strategies from natural language via Gemini, backtest with Backtrader, analyze with institutional-grade metrics. React + Express + FastAPI.
-
-**[Kindred](https://github.com/Martingminchev/kindred)** — Mobile therapy app disguised as a Tamagotchi. A bioluminescent creature sends you on real-world missions — its health mirrors yours. Flutter, ObjectBox, custom creature animations, GPS verification.
-
-**[Proactive Assistant](https://github.com/Martingminchev/proactive-assistant)** — AI that helps before you ask. Electron desktop companion + web daily briefs + VSCode extension. Context-aware, flow-state detection, multi-provider LLM.
-
-### Production
-
-**[Pilates Workflow](https://github.com/Martingminchev/pilates-workflow)** — Booking platform for a real studio in Barcelona. Multi-step wizard, Stripe payments, recurring classes, admin dashboard. Deployed on Vercel.
-
-**[Mladen Fit](https://github.com/Martingminchev/mladen-fit-brand)** — Nutrition plan SaaS with Stripe checkout, AI recipe generation, video content, and admin panel. Production on Vercel.
-
-### Other
-
-**[Bible Search](https://github.com/Martingminchev/bible-search)** | **[Bible Codes Finder](https://github.com/Martingminchev/bible-codes-finder)** — Torah ELS code search with AI interpretation and interactive grid visualization.
-
-**[Epstein Files Search](https://github.com/Martingminchev/epstein-files-search)** — AI-powered document search across DOJ investigation files.
-
-**[AI Orchestrator](https://github.com/Martingminchev/ai-orchestrator)** — Multi-agent task orchestration with parallel execution.
-
-**[The River](https://github.com/Martingminchev/the-river)** — A novella. Not code — but building things isn't limited to software .
-
-### Tech
-
-**Web:** React, Express, MongoDB, Vite, Tailwind, Vercel
-**Mobile:** Flutter/Dart, React Native/Expo
-**Desktop:** Electron
-**AI/ML:** PyTorch, transformers, LLM integration (Gemini, OpenAI, Moonshot, Ollama), vector search, RAG
-**Python:** FastAPI, Backtrader, Pandas, MetaTrader5
-**Other:**  Three.js, Stripe, JWT, MongoDB Atlas
+[LinkedIn](https://www.linkedin.com/in/martin-minchev/)
